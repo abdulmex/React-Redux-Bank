@@ -1,4 +1,4 @@
-# React Redux Bank APp
+# React Redux Bank App
 
 This app is a banking application that i used to practice Redux.
 
